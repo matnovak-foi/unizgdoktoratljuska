@@ -1,3 +1,5 @@
+U slučaju da studirate na foi i želite koristiti R za generiranje latex predloška pa onda dalje možete pronaći projekt: https://github.com/matnovak-foi/R_LaTeX_phdTemplateExample
+
 ## LaTeX ljuska za izradu doktorskog rada na Sveučilištu u Zagrebu.
 
 
@@ -34,3 +36,4 @@ Ako koristite linux onda je koristan alat
 ```
 $ latexmk -pdf document.tex
 ```
+U slučaju da studirate na foi i želite koristiti R za generiranje latex predloška pa onda dalje možete pronaći projekt: https://github.com/matnovak-foi/R_LaTeX_phdTemplateExample 
